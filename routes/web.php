@@ -60,7 +60,7 @@ Route::get('/posts/{id}', function ($id) {
             'title' => 'The Three Ps of Optimism by David Ogilve',
             'content' => 'Optimism plays a vital role in our professional lives, shaping our mindset and influencing our approach to challenges and opportunities. By understanding and embracing the Three Ps of Optimism – Personalization, Permanence, and Pervasiveness - we can foster resilience, enhance productivity, and cultivate a positive work environment. In this article, we’ll explore the significance of these Three Ps, provide practical tips, and examine their impact on success and wellbeing at work.',
             'author' => 'Dira Okta Prindana',
-            'role' => 'Co-Founder / CTO',000000000000000
+            'role' => 'Co-Founder / CTO',
             'category' => 'Inspirational'
         ],
         [
